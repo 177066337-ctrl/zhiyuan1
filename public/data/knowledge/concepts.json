@@ -1,0 +1,245 @@
+[
+  {
+    "id": "batch",
+    "name": "批次",
+    "category": "投档规则",
+    "simpleExplanation": "批次可以理解为招生录取时的不同轮次安排，例如提前批、本科批、专科批等。",
+    "misunderstanding": "很多人把批次当成学校好坏的绝对标准，忽略了不同省份设置差异。",
+    "tips": "先确认本省当年的批次设置、每批志愿数量和录取安排。",
+    "needOfficialCheck": true
+  },
+  {
+    "id": "college-major-group",
+    "name": "院校专业组",
+    "category": "新高考",
+    "simpleExplanation": "报考单位不是整所学校，而是某学校下的某个专业组。",
+    "misunderstanding": "同一学校不同专业组常被误认为差不多，实际上专业和风险都可能不同。",
+    "tips": "一定要看组内专业、选科要求和调剂范围。",
+    "needOfficialCheck": true
+  },
+  {
+    "id": "major-group-volunteer",
+    "name": "专业组志愿",
+    "category": "新高考",
+    "simpleExplanation": "在院校专业组模式下，你填报的是具体的专业组志愿。",
+    "misunderstanding": "很多人以为报组就等于报到自己最想要的那个专业。",
+    "tips": "组内若允许调剂，要看整个组是否都能接受。",
+    "needOfficialCheck": true
+  },
+  {
+    "id": "parallel-volunteer",
+    "name": "平行志愿",
+    "category": "投档规则",
+    "simpleExplanation": "同一批次可以填多个志愿，系统按规则和顺序依次检索。",
+    "misunderstanding": "平行志愿不等于没有风险，也不等于随便填都能上。",
+    "tips": "仍然要做冲稳保梯度，仍然要防滑档和退档。",
+    "needOfficialCheck": true
+  },
+  {
+    "id": "sequential-volunteer",
+    "name": "顺序志愿",
+    "category": "投档规则",
+    "simpleExplanation": "顺序志愿更强调前面志愿的优先性，第一志愿通常很关键。",
+    "misunderstanding": "有人把顺序志愿和平行志愿混为一谈。",
+    "tips": "如果本省某批次采用顺序志愿，第一志愿要更谨慎安排。",
+    "needOfficialCheck": true
+  },
+  {
+    "id": "archive-submission",
+    "name": "投档",
+    "category": "投档规则",
+    "simpleExplanation": "考试院按规则把你的电子档案投给学校或专业组。",
+    "misunderstanding": "投档不等于正式录取。",
+    "tips": "投档后仍要看学校审核、章程和专业要求。",
+    "needOfficialCheck": true
+  },
+  {
+    "id": "rejection-after-submission",
+    "name": "退档",
+    "category": "录取结果",
+    "simpleExplanation": "档案已经投出去，但学校没有录取，又把档案退回。",
+    "misunderstanding": "很多人只防滑档，不重视退档。",
+    "tips": "重点核对调剂、体检、单科、选科和章程要求。",
+    "needOfficialCheck": true
+  },
+  {
+    "id": "slip-out",
+    "name": "滑档",
+    "category": "录取结果",
+    "simpleExplanation": "在某一批次里，填报志愿都没有被投进去。",
+    "misunderstanding": "志愿填得多不一定就不会滑档。",
+    "tips": "保底要真实有效，不能只有形式上的保。",
+    "needOfficialCheck": true
+  },
+  {
+    "id": "adjustment",
+    "name": "调剂",
+    "category": "录取规则",
+    "simpleExplanation": "没有被目标专业录取时，可能被安排到学校或专业组允许范围内的其他专业。",
+    "misunderstanding": "很多人只想到能留下，没想到可能去到不喜欢的专业。",
+    "tips": "先看调剂范围能不能接受，再考虑是否服从。",
+    "needOfficialCheck": true
+  },
+  {
+    "id": "accept-adjustment",
+    "name": "服从专业调剂",
+    "category": "录取规则",
+    "simpleExplanation": "表示愿意在目标专业没录上的情况下被调到其他专业。",
+    "misunderstanding": "勾选调剂不是零代价的“更容易录取”。",
+    "tips": "在勾选前先确认调剂到的专业你能不能接受。",
+    "needOfficialCheck": true
+  },
+  {
+    "id": "one-point-one-section",
+    "name": "一分一段表",
+    "category": "分数位次",
+    "simpleExplanation": "帮助你查看某个分数对应的大概人数和位次分布。",
+    "misunderstanding": "只看分数、不看一分一段表容易误判竞争位置。",
+    "tips": "要看本省、本类别的一分一段表。",
+    "needOfficialCheck": true
+  },
+  {
+    "id": "rank",
+    "name": "位次",
+    "category": "分数位次",
+    "simpleExplanation": "位次是你在本省同类考生中的大概排名位置。",
+    "misunderstanding": "位次不是全国排名，也不能跨省直接比。",
+    "tips": "做历史参考时，位次通常比分数更有价值。",
+    "needOfficialCheck": false
+  },
+  {
+    "id": "province-line",
+    "name": "省控线",
+    "category": "分数线",
+    "simpleExplanation": "省控线是某批次或某类别进入相应录取阶段的基本门槛。",
+    "misunderstanding": "过了省控线不等于就有理想学校或理想专业。",
+    "tips": "省控线只能说明有资格参与，不代表稳录。",
+    "needOfficialCheck": true
+  },
+  {
+    "id": "submission-line",
+    "name": "投档线",
+    "category": "分数线",
+    "simpleExplanation": "投档线通常指某校或专业组在某年某省的最低投档门槛。",
+    "misunderstanding": "投档线不等于具体专业的录取门槛。",
+    "tips": "要结合专业、调剂和专业组一起看。",
+    "needOfficialCheck": true
+  },
+  {
+    "id": "major-admission-score",
+    "name": "专业录取分",
+    "category": "分数线",
+    "simpleExplanation": "某个具体专业在某年的录取分数或位次情况。",
+    "misunderstanding": "学校最低分不能直接代表目标专业分数。",
+    "tips": "目标明确时，尽量看专业层面的历史数据。",
+    "needOfficialCheck": true
+  },
+  {
+    "id": "score-range",
+    "name": "最低分、平均分、最高分",
+    "category": "分数线",
+    "simpleExplanation": "用于描述某学校或专业录取结果的分数区间。",
+    "misunderstanding": "只盯最低分会忽略整体录取分布和波动。",
+    "tips": "最好结合位次、年份和计划变化一起看。",
+    "needOfficialCheck": true
+  },
+  {
+    "id": "admission-plan",
+    "name": "招生计划",
+    "category": "招生信息",
+    "simpleExplanation": "高校当年在某省、某批次、某专业或专业组招多少人。",
+    "misunderstanding": "历史分数相近，不代表今年也一样，因为计划人数可能会变。",
+    "tips": "正式填报前一定要看当年的招生计划。",
+    "needOfficialCheck": true
+  },
+  {
+    "id": "admission-charter",
+    "name": "招生章程",
+    "category": "招生信息",
+    "simpleExplanation": "学校官方发布的录取规则说明书。",
+    "misunderstanding": "很多人只看分数，不看章程里的硬限制。",
+    "tips": "重点看调剂、体检、单科、语种、学费、校区。",
+    "needOfficialCheck": true
+  },
+  {
+    "id": "subject-requirement",
+    "name": "选科要求",
+    "category": "新高考",
+    "simpleExplanation": "某专业或专业组对高中选考科目的要求。",
+    "misunderstanding": "选科不符通常不是小问题，而是直接不能报。",
+    "tips": "新高考省份必须逐项核对选科要求。",
+    "needOfficialCheck": true
+  },
+  {
+    "id": "medical-limit",
+    "name": "体检受限",
+    "category": "录取限制",
+    "simpleExplanation": "某些专业对视力、色觉、听力、身高等有要求。",
+    "misunderstanding": "不是只有医学和军警类才看体检。",
+    "tips": "有特殊情况时，先把受限专业筛掉。",
+    "needOfficialCheck": true
+  },
+  {
+    "id": "special-track-major",
+    "name": "单列专业",
+    "category": "特殊项目",
+    "simpleExplanation": "学校把某类专业单独列出来招生，可能在收费或培养上不同。",
+    "misunderstanding": "很多人只看专业名，没意识到这是单列项目。",
+    "tips": "重点看学费、校区、培养方式和说明。",
+    "needOfficialCheck": true
+  },
+  {
+    "id": "sino-foreign",
+    "name": "中外合作",
+    "category": "特殊项目",
+    "simpleExplanation": "由国内高校与国外高校合作办学的项目。",
+    "misunderstanding": "它通常不是普通专业的简单替代版，费用和培养方式差异很大。",
+    "tips": "重点核对学费、授课语言、证书说明和出国安排。",
+    "needOfficialCheck": true
+  },
+  {
+    "id": "local-special-plan",
+    "name": "地方专项",
+    "category": "专项计划",
+    "simpleExplanation": "面向特定地区或特定条件考生设置的专项招生计划。",
+    "misunderstanding": "不是所有考生都能报。",
+    "tips": "先看资格，再看学校和专业。",
+    "needOfficialCheck": true
+  },
+  {
+    "id": "national-special-plan",
+    "name": "国家专项",
+    "category": "专项计划",
+    "simpleExplanation": "国家层面设置的专项招生计划，通常面向特定地区考生。",
+    "misunderstanding": "分数够不代表资格一定符合。",
+    "tips": "先核验资格，再研究学校和专业安排。",
+    "needOfficialCheck": true
+  },
+  {
+    "id": "early-batch",
+    "name": "提前批",
+    "category": "投档规则",
+    "simpleExplanation": "在普通批次前更早进行录取的一类安排。",
+    "misunderstanding": "提前批不一定更高级，只是录取安排不同。",
+    "tips": "看清录取后是否影响后续批次和专业约束。",
+    "needOfficialCheck": true
+  },
+  {
+    "id": "broad-category-admission",
+    "name": "大类招生",
+    "category": "培养方式",
+    "simpleExplanation": "先按一个较大的专业类别招生，入学后再细分方向。",
+    "misunderstanding": "大类录取不等于以后一定能去最喜欢的方向。",
+    "tips": "要看后续分流规则和热门方向竞争。",
+    "needOfficialCheck": true
+  },
+  {
+    "id": "change-major",
+    "name": "转专业",
+    "category": "培养方式",
+    "simpleExplanation": "入学后申请从一个专业转到另一个专业。",
+    "misunderstanding": "很多人把转专业想得太容易。",
+    "tips": "不要把转专业当成填报失误后的默认补救方案。",
+    "needOfficialCheck": true
+  }
+]

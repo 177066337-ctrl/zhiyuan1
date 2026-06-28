@@ -1,0 +1,275 @@
+[
+  {
+    "id": "first-step-after-score",
+    "question": "分数出来后第一步做什么？",
+    "answer": "先确认本省成绩对应的位次，再整理省份规则、选科、目标方向和个人限制条件，不要一上来只看学校名单。",
+    "needOfficialCheck": "本省一分一段表、位次、批次和填报规则需官方核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "score-or-rank",
+    "question": "位次和分数哪个更重要？",
+    "answer": "多数情况下位次更适合做历史参考，因为它更接近竞争位置，但也要结合年份、规则和计划变化理解。",
+    "needOfficialCheck": "位次和历年对应数据需官方核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "what-is-chong-wen-bao",
+    "question": "什么叫冲稳保？",
+    "answer": "冲稳保是把志愿按风险和目标分层：冲是争取机会，稳是主要承接，保是守住底线。",
+    "needOfficialCheck": "具体学校、专业组和当年录取参考数据需官方核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "how-much-to-chong",
+    "question": "冲多少合适？",
+    "answer": "没有固定比例，关键看你的风险承受能力、目标层次和底线，冲可以有，但不能挤掉必要的稳和保。",
+    "needOfficialCheck": "具体目标学校和近年数据需官方核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "how-to-choose-safe-option",
+    "question": "保底志愿怎么选？",
+    "answer": "真正的保底，不只是分数低一点，而是你能接受、条件也满足、风险上更能接住你的方案。",
+    "needOfficialCheck": "招生计划、章程、选科、学费、校区需官方核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "parallel-risk",
+    "question": "平行志愿是不是没有风险？",
+    "answer": "不是。平行志愿仍然可能滑档、退档或被调剂，它只是让你可以更系统地安排多个志愿。",
+    "needOfficialCheck": "本省平行志愿规则需官方核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "must-accept-adjustment",
+    "question": "服从调剂一定要勾选吗？",
+    "answer": "不一定。勾选可以降低部分退档风险，但也可能让你去到不喜欢的专业，关键看你更看重什么。",
+    "needOfficialCheck": "调剂范围和学校章程需官方核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "what-if-adjusted",
+    "question": "被调剂到不喜欢的专业怎么办？",
+    "answer": "先判断自己是否还能接受该校，再了解转专业、辅修、考研或后续调整路径，但不要把转专业想得太容易。",
+    "needOfficialCheck": "转专业政策和培养方案需官方核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "how-to-read-charter",
+    "question": "招生章程怎么看？",
+    "answer": "重点看选科要求、调剂规则、体检限制、单科要求、学费、校区和培养方式，而不是只看学校简介。",
+    "needOfficialCheck": "招生章程全文需官方核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "group-adjustment",
+    "question": "专业组内会不会调剂？",
+    "answer": "很多情况下可能会，但不同省份、学校和专业组规则不完全一样，必须看当年官方说明。",
+    "needOfficialCheck": "招生计划和学校章程需官方核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "subject-mismatch",
+    "question": "选科不符合能报吗？",
+    "answer": "通常不行。选科要求属于硬门槛，不建议抱着试一试的心态填报。",
+    "needOfficialCheck": "当年选科要求需官方核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "major-vs-school",
+    "question": "专业和学校哪个重要？",
+    "answer": "没有统一答案，要看你的目标。方向明确时专业更重要，更看重平台和考研环境时学校可能更重要。",
+    "needOfficialCheck": "目标学校和专业的具体情况需官方核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "is-city-important",
+    "question": "城市重要吗？",
+    "answer": "重要。城市会影响实习机会、生活成本、离家距离和后续发展空间，但重要程度因人而异。",
+    "needOfficialCheck": "校区位置和相关生活成本信息建议核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "hot-major-good",
+    "question": "热门专业一定好吗？",
+    "answer": "不一定。热门意味着关注度高，也意味着竞争更集中，适不适合你比它热不热更重要。",
+    "needOfficialCheck": "无固定需核验项。",
+    "page": "FAQ"
+  },
+  {
+    "id": "cold-major-bad",
+    "question": "冷门专业一定差吗？",
+    "answer": "不一定。有些专业只是名字不热，但在特定学校和行业里很有价值，关键是你是否了解并接受它。",
+    "needOfficialCheck": "具体学校和专业培养情况建议核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "can-choose-new-major",
+    "question": "新专业能不能报？",
+    "answer": "可以，但要更谨慎，因为历史数据少、培养成熟度和社会认知都可能还在变化。",
+    "needOfficialCheck": "学校培养方案和招生说明需官方核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "can-choose-sino-foreign",
+    "question": "中外合作能不能报？",
+    "answer": "能，但前提是你清楚它的学费、培养方式、语言要求和未来安排，且家庭能承受。",
+    "needOfficialCheck": "学费、培养方式、证书说明和校区安排需官方核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "medical-major-notes",
+    "question": "医学类专业要注意什么？",
+    "answer": "要注意学习周期、培养压力、学校平台、附属资源、选科要求和体检限制，医学不是短平快路径。",
+    "needOfficialCheck": "选科、体检、培养年限和章程需官方核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "teacher-major-notes",
+    "question": "师范类专业要注意什么？",
+    "answer": "要区分师范院校和师范专业，也要看是否有公费、是否符合考编和教师资格路径预期。",
+    "needOfficialCheck": "培养方式和相关政策需官方核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "law-major-notes",
+    "question": "法学专业要注意什么？",
+    "answer": "要注意竞争强度、学校平台、后续深造和职业路径，不适合只因为听起来体面就选择。",
+    "needOfficialCheck": "具体学校培养情况建议核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "computer-worth",
+    "question": "计算机专业还值得报吗？",
+    "answer": "值得不值得，取决于你是否适合学、是否愿意持续学习，以及学校平台和城市资源是否匹配。",
+    "needOfficialCheck": "具体学校课程和培养情况建议核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "low-score-save-undergraduate",
+    "question": "低分段怎么保本科？",
+    "answer": "重点不是冲，而是把保底做实，同时筛掉不符合预算、选科、校区和专业底线的项目。",
+    "needOfficialCheck": "本省批次线、规则和招生计划需官方核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "college-major-choice",
+    "question": "专科怎么选专业？",
+    "answer": "更建议优先看就业承接、技能壁垒、升学路径和成本，而不是只看名字好不好听。",
+    "needOfficialCheck": "学校培养、升学和就业信息需官方核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "when-repeat",
+    "question": "什么时候适合复读？",
+    "answer": "当你对结果明显不满意、目标清晰、心理承受能力足够、家庭也支持，并且有明确改进空间时，才值得认真考虑。",
+    "needOfficialCheck": "本省复读政策如有变化需官方核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "parent-student-conflict",
+    "question": "家长和孩子意见不一致怎么办？",
+    "answer": "先不要直接争学校，先统一底线、优先级和可接受妥协项，再进入具体方案讨论。",
+    "needOfficialCheck": "无固定需核验项。",
+    "page": "FAQ"
+  },
+  {
+    "id": "high-score-easier",
+    "question": "高分考生是不是更容易填报？",
+    "answer": "选择空间通常更大，但取舍也更复杂，高分段更容易纠结学校、专业和城市谁优先。",
+    "needOfficialCheck": "具体学校和专业组数据需官方核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "school-min-score-enough",
+    "question": "学校最低分能代表目标专业吗？",
+    "answer": "通常不能。学校最低分只能说明进校门槛，具体专业尤其是热门专业，往往要求更高。",
+    "needOfficialCheck": "专业录取数据需官方核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "school-tags-enough",
+    "question": "只看学校标签够不够？",
+    "answer": "不够。985、211、双一流能帮助理解平台，但不能替代专业、城市、章程和培养方式判断。",
+    "needOfficialCheck": "具体学校和专业情况建议核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "group-vs-major",
+    "question": "院校专业组和专业有什么区别？",
+    "answer": "专业组是招生单位，里面可能包含多个专业，报组不等于只报到其中某一个专业。",
+    "needOfficialCheck": "当年招生计划和组内专业说明需官方核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "same-school-different-groups",
+    "question": "为什么同一所学校不同专业组差很多分？",
+    "answer": "因为组内专业、选科要求、调剂风险和项目类型可能都不同，所以分数和风险差异会很大。",
+    "needOfficialCheck": "具体专业组设置需官方核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "broad-category-equals-major",
+    "question": "大类招生可以当成具体专业吗？",
+    "answer": "不建议。大类招生意味着后续还要分流，最终方向未必就是你现在最喜欢的那个。",
+    "needOfficialCheck": "分流规则需官方核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "changing-major-easy",
+    "question": "转专业是不是很容易？",
+    "answer": "通常没有想象中容易，不同学校门槛和限制差异很大。",
+    "needOfficialCheck": "学校转专业政策需官方核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "tool-directly-use",
+    "question": "志愿工具算出来的结果能直接用吗？",
+    "answer": "不能直接照搬。工具可以帮助你整理思路、做筛选和查风险，但不能替代官方核验和个人判断。",
+    "needOfficialCheck": "所有学校、专业、规则和数据都需官方核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "adjustment-no-rejection",
+    "question": "只要服从调剂，就不会退档吗？",
+    "answer": "也不是。服从调剂能降低部分退档风险，但体检、选科、单科等条件不符时，仍可能出现问题。",
+    "needOfficialCheck": "学校章程和专业要求需官方核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "history-data-predict",
+    "question": "往年数据能不能预测今年结果？",
+    "answer": "往年数据更适合做历史参考，不适合作为精确预测，计划变化、规则变化和大小年都会影响结果。",
+    "needOfficialCheck": "当年计划、规则和官方数据需核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "dont-know-what-to-study",
+    "question": "如果我不知道自己想学什么怎么办？",
+    "answer": "先别急着选学校，先梳理方向：你更看重就业、考研、稳定、城市还是学校平台，再排除明显不接受的专业类型。",
+    "needOfficialCheck": "无固定需核验项。",
+    "page": "FAQ"
+  },
+  {
+    "id": "low-budget-focus",
+    "question": "家庭预算有限，填报时最该看什么？",
+    "answer": "优先看学费、校区、城市生活成本、培养方式和是否属于高收费项目。",
+    "needOfficialCheck": "学费、住宿费和项目说明需官方核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "choose-school-for-postgrad",
+    "question": "想以后考研，本科阶段怎么选学校？",
+    "answer": "可以更重视学校学习氛围、学科基础、平台和城市资源，但仍要保证本科专业方向自己能接受。",
+    "needOfficialCheck": "学校学科情况和培养方案建议核验。",
+    "page": "FAQ"
+  },
+  {
+    "id": "choose-for-employment",
+    "question": "想直接就业，最该看什么？",
+    "answer": "更建议优先看专业对口性、学校就业承接、所在城市产业环境和个人可接受度。",
+    "needOfficialCheck": "就业质量报告和相关培养信息建议核验。",
+    "page": "FAQ"
+  }
+]
